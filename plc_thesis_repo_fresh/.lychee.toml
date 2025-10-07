@@ -1,0 +1,3 @@
+# .lychee.toml
+exclude = ["^https://www.linkedin.com/"]
+accept = [200, 429, 999]
